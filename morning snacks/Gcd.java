@@ -19,7 +19,7 @@ import java.util.Scanner;
             }
                    
         }
-            System.out.print(gcd);
+            System.out.print("The Gcd is " + gcd);
         
 
         }
